@@ -9,3 +9,14 @@
     "name": "typicode"
   }
 }
+ [
+        {
+            "Instance": "i-080691a105fdda539",
+            "Name": [
+                {
+                    "Key": "Name",
+                    "Value": "UbuntuVM"
+                }
+            ]
+        }
+    ],
