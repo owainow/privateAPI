@@ -2,17 +2,17 @@
   "machines": [
     {
       "id": 1,
-       "data": {"name": "fyre-discard-vm-1007", "key": "ABCDE123"}
+       "data": [{"name": "fyre-discard-vm-1007"}, "key": "ABCDE123"}]
      },
     {
       "id": 2,
 
-        "data": {"name": "fyre-discard-vm-1008", "key": "ABCYRE123"}
+        "data": [{"name": "fyre-discard-vm-1008", "key": "ABCYRE123"}]
     },
     {
       "id": 3,
     
-        "data": {"name": "fyre-discard-vm-1009", "key": "AZREDE123"}
+        "data": [{"name": "fyre-discard-vm-1009", "key": "AZREDE123"}]
       
     },
      {
@@ -24,37 +24,37 @@
      {
       "id": 5,
    
-        "data": {"name": "fyre-discard-vm-1011", "key": "YANT76563A"}
+        "data": [{"name": "fyre-discard-vm-1011", "key": "YANT76563A"}]
       
     },
      {
       "id": 6,
      
-        "data": {"name": "fyre-discard-vm-1012", "key": "DYAN31685"}
+        "data": [{"name": "fyre-discard-vm-1012", "key": "DYAN31685"}]
       
     },
      {
       "id": 7,
      
-        "data": {"name": "fyre-discard-vm-1013", "key": "SANF84923"}
+        "data": [{"name": "fyre-discard-vm-1013", "key": "SANF84923"}]
       
     },
      {
       "id": 8,
     
-        "data": {"name": "fyre-discard-vm-1014", "key": "SADNS57985"}
+        "data": [{"name": "fyre-discard-vm-1014", "key": "SADNS57985"}]
       
     },
      {
       "id": 9,
       
-        "data": {"name": "fyre-discard-vm-1015", "key": "DYUIK89OP"}
+        "data": [{"name": "fyre-discard-vm-1015", "key": "DYUIK89OP"}]
       
     },
      {
       "id": 10,
      
-        "data": {"name": "fyre-discard-vm-1016", "key": "DHJMNNB6547"}
+        "data": [{"name": "fyre-discard-vm-1016", "key": "DHJMNNB6547"}]
       
     }
     ]
