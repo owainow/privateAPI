@@ -29,13 +29,13 @@
       "id": 5,
    
         "data": {"name": "fyre-discard-vm-1011"},
-        "key": "YANT76563A"}]
+        "key": "YANT76563A"
       
     },
      {
       "id": 6,
      
-        "data": [{"name": "fyre-discard-vm-1012"},
+        "data": {"name": "fyre-discard-vm-1012"},
                  "key": "DYAN31685"
       
     },
