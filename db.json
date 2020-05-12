@@ -6,57 +6,56 @@
      },
     {
       "id": 2,
-      "title": {
+
         "data": {"name": "fyre-discard-vm-1008", "type": "VM"}
-      }
     },
     {
       "id": 3,
-      "title": {
+    
         "data": {"name": "fyre-discard-vm-1009", "type": "VM"}
-      }
+      
     },
      {
       "id": 4,
-     "title": {
+  
         "data": {"name": "fyre-discard-vm-1010", "type": "VM"}
-      }
+      
     },
      {
       "id": 5,
-      "title": {
+   
         "data": {"name": "fyre-discard-vm-1011", "type": "VM"}
-      }
+      
     },
      {
       "id": 6,
-      "title": {
+     
         "data": {"name": "fyre-discard-vm-1012", "type": "VM"}
-      }
+      
     },
      {
       "id": 7,
-      "title": {
+     
         "data": {"name": "fyre-discard-vm-1013", "type": "VM"}
-      }
+      
     },
      {
       "id": 8,
-     "title": {
+    
         "data": {"name": "fyre-discard-vm-1014", "type": "VM"}
-      }
+      
     },
      {
       "id": 9,
-      "title": {
+      
         "data": {"name": "fyre-discard-vm-1015", "type": "VM"}
-      }
+      
     },
      {
       "id": 10,
-     "title": {
+     
         "data": {"name": "fyre-discard-vm-1016", "type": "VM"}
-      }
+      
     }
     ]
 }
