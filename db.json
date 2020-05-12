@@ -2,7 +2,7 @@
   "machines": [
     {
       "id": 1,
-       "data": [{"name": "fyre-discard-vm-1007"}, "key": "ABCDE123"}]
+       "data": [{"name": "fyre-discard-vm-1007", "key": "ABCDE123"}]
      },
     {
       "id": 2,
@@ -18,7 +18,7 @@
      {
       "id": 4,
   
-        "data": {"name": "fyre-discard-vm-1010", "key": "YTNER857"}
+        "data": [{"name": "fyre-discard-vm-1010", "key": "YTNER857"}]
       
     },
      {
@@ -56,6 +56,6 @@
      
         "data": [{"name": "fyre-discard-vm-1016", "key": "DHJMNNB6547"}]
       
-    }
+     }
     ]
 }
