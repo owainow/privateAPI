@@ -2,9 +2,7 @@
   "machines": [
     {
       "id": 1,
-      "title": {
-        "data": {"name": "fyre-discard-vm-1007", "type": "VM"}
-      }
+       "data": {"name": "fyre-discard-vm-1007", "type": "VM"}
      },
     {
       "id": 2,
